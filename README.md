@@ -6,7 +6,6 @@ I'm a **Computer Science & Engineering student** passionate about coding, softwa
 
 I enjoy building projects, learning new technologies, and turning ideas into code. 🚀
 
----
 
 ## 🧑‍💻 About Me
 
@@ -16,34 +15,15 @@ I enjoy building projects, learning new technologies, and turning ideas into cod
 * 📱 Interested in Mobile App Development
 * 🚀 Always excited to build something new
 
----
 
 ## 💻 Programming Languages
 
-* C
-* C++
-* Python
-* Java
-* JavaScript
-* TypeScript
-* Go
-* Rust
-
----
+C,C++,Python,Java,JavaScript,TypeScript,Go,Rust
 
 ## 🛠️ Technologies & Tools
 
-* Flutter
-* HTML
-* CSS
-* React
-* Node.js
-* Git
-* GitHub
-* VS Code
-* Linux
+Flutter,HTML,CSS,React,Node.js,Git,GitHub,VS Code
 
----
 
 
 ### ⚡ Code. Create. Learn. Repeat.
